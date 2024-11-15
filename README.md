@@ -1,5 +1,5 @@
 # SOOL.zip 프로젝트
-kh정보교육원 세미프로젝트
+
 # 실행 화면 설명
 https://www.notion.so/SOOL-zip-4a77e3be7d8a491d84d08deb08c75238
 # 설계 및 구현기간
@@ -34,7 +34,7 @@ https://www.notion.so/SOOL-zip-4a77e3be7d8a491d84d08deb08c75238
 + JQuery
 
 **버전관리 및 협업도구**
-+ Git https://github.com/jangjaeung/soolzip
++ Git
 
 # DB구조
 ![erd](https://user-images.githubusercontent.com/90733948/137696131-5b836c4c-e374-4e93-8aa2-441be348b1d7.jpg)
